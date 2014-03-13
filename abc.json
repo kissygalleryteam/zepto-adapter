@@ -1,0 +1,17 @@
+{
+    "name": "zepto-adapter",
+    "comName":"ZeptoAdapter",
+    "version": "1.0",
+    "desc": "",
+    "tag":"kissy-mini,zepto",
+    "githubName":"jayli",
+    "author": {
+        "name": "kissy-team",
+        "email": "bachi@taobao.com",
+        "page": ""
+    },
+	"flexComboPort":"81",
+	"reserveServerPort":"8080",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
